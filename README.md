@@ -71,6 +71,16 @@ features in Apache Spark.
 - PCA dimensionality reduction (49% variance) caused performance trade-off in RF+PCA
 - Feature engineering quality impacts model performance more than framework choice
 
+## 📸 Screenshots
+![EDA]<img width="1389" height="515" alt="2" src="https://github.com/user-attachments/assets/39df93cb-3ac1-4d61-bc11-4a2e1d9a1505" />
+<img width="1587" height="719" alt="6" src="https://github.com/user-attachments/assets/6a30e0cc-9e5c-4865-b5b7-4e838a6676b5" />
+
+
+![Neural Network Results]<img width="832" height="235" alt="11" src="https://github.com/user-attachments/assets/04980f8c-9300-4dea-95bd-123433656aeb" />
+
+![PySpark Results]<img width="852" height="342" alt="12" src="https://github.com/user-attachments/assets/5b60ce02-9de9-40b7-ba60-a4833aa512be" />
+
+
 ## ⚠️ Disclaimer
 This project was developed for educational purposes as part of the 
 MSc Data Science and Analytics programme at Brunel University London.
