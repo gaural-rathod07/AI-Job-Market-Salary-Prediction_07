@@ -91,6 +91,5 @@ This project was developed for educational purposes as part of the
 MSc Data Science and Analytics programme at Brunel University London.
 
 ## 👤 Author
-**Gaural Rathod**
-
+**Gaural Rathod**  
 MSc Data Science and Analytics — Brunel University London
