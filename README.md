@@ -4,8 +4,7 @@
 ## 📋 Overview
 A machine learning project predicting AI job salaries globally using 
 the Global AI Job Market & Salary Trends 2025 dataset (15,000 records, 
-19 attributes). Implemented as part of CS5811 Distributed Data Analysis 
-at Brunel University London.
+19 attributes).
 
 **Research Question:** What factors most significantly influence AI job 
 salaries globally in 2025, and can we accurately predict salary levels 
