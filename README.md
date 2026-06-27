@@ -16,6 +16,8 @@ using machine learning and distributed computing techniques?
 - **Size:** 15,000 rows × 19 columns
 - **Target Variable:** salary_usd (annual compensation in USD)
 - **License:** Open licence (Kaggle)
+### 📜 Credits
+- **Dataset:** Global AI Job Market & Salary Trends 2025 by Bismasajjad on Kaggle
 
 ## 🛠️ Tools & Libraries
 - Python, Pandas, NumPy, Matplotlib, Seaborn
@@ -91,6 +93,3 @@ MSc Data Science and Analytics programme at Brunel University London.
 ## 👤 Author
 **Gaural Rathod**
 MSc Data Science and Analytics — Brunel University London
-
-## 📜 Credits
-- **Dataset:** Global AI Job Market & Salary Trends 2025 by Bismasajjad on Kaggle
